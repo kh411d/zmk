@@ -40,7 +40,7 @@
             bindings = <
     &kp TILDE  &kp EXCL   &kp AT     &kp HASH   &kp DLLR   &kp PRCNT  &kp CARET  &kp AMPS    &kp ASTRK  &kp LPAR   &kp RPAR   &trans
     &kp GRAVE  &kp LBRC   &kp LBKT   &kp RBKT   &kp RBRC   &kp DLLR   &kp AMPS   &kp UNDER   &kp PLUS   &kp LBRC   &kp RBRC   &kp DQT
-    &trans     &kp LT     &kp GT     &kp LT     &kp GT     &kp HASH   &kp ASTRK  &kp BSLH    &kp LT     &kp GT     &kp EQUAL  &PIPE
+    &trans     &kp LPAR   &kp RPAR   &kp LT     &kp GT     &kp HASH   &kp ASTRK  &kp BSLH    &kp LT     &kp GT     &kp EQUAL  &kp PIPE
     &trans     &trans     &trans     &trans     &trans     &kp SPACE  &trans     &mo BT_CTRL &kp HOME   &kp PG_DN  &kp PG_UP  &kp END
             >;
         };
